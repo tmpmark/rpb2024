@@ -1,0 +1,17 @@
+# TODO 1: list 선언하기
+# 1X3 벡터 선언하기
+a = [1,2,3]
+# 2X3 행렬 선언하기
+B = [[1,2,3],[4,5,6]]
+
+# list 출력하기
+print(a)
+print(B)
+
+# TODO 2: list indexing
+# a의 첫 번째(시작) 요소 출력하기
+print(a[0])
+# a의 마지막 요소 출력하기
+print(a[-1])
+# B의 시작 요소 출력하기
+print(B[1,2])
